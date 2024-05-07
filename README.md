@@ -21,7 +21,7 @@ Dessa forma, foi desenvolvido um modelo de Machine Learning baseado em Algoritmo
 ## Instruções para rodar o modelo
 1. Clone o repositório
 ```
-Comando GitClone aqui
+https://github.com/elena-calcada/modelo_machine_learning_regressao_linear_simples.git
 ```
 2. Rode o comando
 ```
