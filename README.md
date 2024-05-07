@@ -19,16 +19,24 @@ Dessa forma, foi desenvolvido um modelo de Machine Learning baseado em Algoritmo
 8. Entregar o modelo como API;
 
 ## Instruções para rodar o modelo
-1. Clone o repositório
+1. É necessário ter o pipenv instalado
+```
+pip install pipenv
+```
+2. Clone o repositório
 ```
 https://github.com/elena-calcada/modelo_machine_learning_regressao_linear_simples.git
 ```
-2. Rode o comando
+3. Rode o comando no terminal
+```
+pipenv shell
+```
+4. Rode o comando
 ```
 uvicorn api_modelo_regressao:app --reload
 ```
-3. Acesse no seu navegador
+5. Acesse no seu navegador
 ```
 http://localhost:[porta exposta no comando anterior]/docs
 ```
-4. Teste o modelo
+6. Teste o modelo
