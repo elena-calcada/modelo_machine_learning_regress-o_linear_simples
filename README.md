@@ -14,7 +14,7 @@ Dessa forma, foi desenvolvido um modelo de Machine Learning baseado em Algoritmo
 3. Treinamento do Modelo;
 4. Validação do Modelo utilizando Métricas;
 5. Análise de Resíduos e conclusão geral;
-6. Reaização de predições com o modelo;
+6. Realização de predições com o modelo;
 7. Salvar o modelo treinado;
 8. Entregar o modelo como API;
 
